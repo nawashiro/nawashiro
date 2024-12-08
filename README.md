@@ -47,4 +47,4 @@
 
 以下は私の個人サイトです。各種SNSへのリンクなどがあります。
 
-<https://nawashiro.github.io/>
+<https://nawashiro.dev/>
